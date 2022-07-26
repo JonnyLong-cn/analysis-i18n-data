@@ -1,0 +1,16 @@
+{
+  "name": "analysis-i18n-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "lodash": "^4.17.21"
+  }
+}
